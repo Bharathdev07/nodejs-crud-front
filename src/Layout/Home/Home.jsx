@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Home.css";
-import axios from "axios";
+import axios from "../../ai";
 import { PropagateLoader } from 'react-spinners';
 // Components
 import Student from "../../components/Student/Student";
