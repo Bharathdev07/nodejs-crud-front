@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import './EditStudent.css';
-import axios from "axios";
+import axios from "../../ai";
 import { withRouter } from 'react-router'
 import {toast, ToastContainer} from "react-toastify";
 
