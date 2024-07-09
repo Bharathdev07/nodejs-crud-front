@@ -10,6 +10,8 @@
     "react-scripts": "4.0.1",
     "react-spinners": "^0.9.0",
     "react-toastify": "^6.1.0"
+    "renderkid": "^2.0.5",
+    "domutils": "^1.7.0",
   },
   "scripts": {
     "start": "react-scripts start",
